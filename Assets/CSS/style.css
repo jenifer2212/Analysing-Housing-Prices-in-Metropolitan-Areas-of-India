@@ -1,0 +1,30 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: yellowgreen;
+    text-transform: uppercase;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h4 {
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    text-align: right;
+    color: white;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
+
+table {
+    padding: 5%;
+}
